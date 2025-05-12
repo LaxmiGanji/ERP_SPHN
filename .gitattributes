@@ -1,0 +1,6 @@
+*.js linguist-detectable=true
+*.jsx linguist-detectable=true
+*.html linguist-detectable=true
+node_modules/* linguist-vendored
+build/* linguist-vendored
+dist/* linguist-vendored
